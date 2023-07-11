@@ -8,13 +8,20 @@
 
  #1                 |   #2        | #3
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/86523323/206925814-6de03a0d-c992-4037-8679-038a997be8e7.jpg?raw=true)|![](https://user-images.githubusercontent.com/86523323/206925816-452bf664-c43b-468d-80f3-cec2426a1057.jpg?raw=true)|![](https://user-images.githubusercontent.com/86523323/206925809-70f38bc3-2a15-489b-8a75-a7686d7c8af5.jpg?raw=true)
+
 
 
 
  #4                 |   #5      
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/86523323/206926402-bbab1014-ced4-4ccf-8235-ab10e9480436.jpg?raw=true)|![](https://user-images.githubusercontent.com/86523323/206926405-2258c6f9-ea60-4528-adab-b6285eeab5b1.jpg?raw=true)
+![searchjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/bacd4575-4e71-4bfc-9ad8-e84bf013ef04)
+![movieAppjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/244c2a15-1fb8-4fa6-9047-bcdc011810d4)
+![imageActorjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8b4dec5a-09f5-41bb-be8d-452cbe04d567)
+![details](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8d2d2e1a-5c5f-4347-835b-ed8179753dc3)
+![categories](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/7b8ac595-8034-44d1-8bec-ebc99e173c61)
+![actor Personaljpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/1661f375-6700-4ebe-981c-cb06d2bfb6b6)
+![actor](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8cab3e7d-3b59-4210-b8dd-ecf393b3a983)
+
 
 
 
