@@ -5,22 +5,12 @@
 
 ## screenshot
 
-
- #1                 |   #2        | #3
-:-------------------------:|:-------------------------:|:-------------------------:
-
-
-
-
- #4                 |   #5      
-:-------------------------:|:-------------------------:
-![searchjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/bacd4575-4e71-4bfc-9ad8-e84bf013ef04)
-![movieAppjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/244c2a15-1fb8-4fa6-9047-bcdc011810d4)
-![imageActorjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8b4dec5a-09f5-41bb-be8d-452cbe04d567)
+![movieAppjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/244c2a15-1fb8-4fa6-9047-bcdc011810d4) ![imageActorjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8b4dec5a-09f5-41bb-be8d-452cbe04d567)
 ![details](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8d2d2e1a-5c5f-4347-835b-ed8179753dc3)
 ![categories](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/7b8ac595-8034-44d1-8bec-ebc99e173c61)
 ![actor Personaljpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/1661f375-6700-4ebe-981c-cb06d2bfb6b6)
 ![actor](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/8cab3e7d-3b59-4210-b8dd-ecf393b3a983)
+![searchjpg](https://github.com/mosaadmahmoud19/movies_app/assets/126625661/bacd4575-4e71-4bfc-9ad8-e84bf013ef04)
 
 
 
